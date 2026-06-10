@@ -1,0 +1,324 @@
+Node.js version v25.5.0 detected.
+Odd numbered Node.js versions will not enter LTS status and should not be used for production. For more information, please see https://nodejs.org/en/about/previous-releases/.
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'role' does not exist on type 'AuthPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:102:155:
+[37m      102 │ ...alue="customer" [(ngModel)]="[32mrole[37m" name="role" style="margin: ...
+          ╵                                 [32m~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'role' does not exist on type 'AuthPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:102:155:
+[37m      102 │ ...alue="customer" [(ngModel)]="[32mrole[37m" name="role" style="margin: ...
+          ╵                                 [32m~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'role' does not exist on type 'AuthPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:103:153:
+[37m      103 │ ... value="seller" [(ngModel)]="[32mrole[37m" name="role" style="margin: ...
+          ╵                                 [32m~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'role' does not exist on type 'AuthPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:103:153:
+[37m      103 │ ... value="seller" [(ngModel)]="[32mrole[37m" name="role" style="margin: ...
+          ╵                                 [32m~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2547:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2547:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2547:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2547:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'productImageFile' does not exist on type 'SellerPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:181:13:
+[37m      181 │     if (this.[32mproductImageFile[37m) form.append('image', this.productI...
+          ╵              [32m~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'productImageFile' does not exist on type 'SellerPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:181:57:
+[37m      181 │ ...is.productImageFile) form.append('image', this.[32mproductImageFile[37m);
+          ╵                                                   [32m~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'productImageFile' does not exist on type 'SellerPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:183:173:
+[37m      183 │ ...:true,category:0};this.[32mproductImageFile[37m=null;this.loadDashboar...
+          ╵                           [32m~~~~~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2547:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2547:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2547:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2653:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2653:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2653:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'onBannerImageSelected' does not exist on type 'AdminPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:206:4241:
+[37m      206 │ ...put type="file" (chan[32mge)="onBannerImageSel[37mected($event)" accep...
+          ╵                         [32m~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'createBanner' does not exist on type 'AdminPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:206:4422:
+[37m      206 │ ... class="button dark" (cli[32mck)="createB[37manner()">Add banner</butt...
+          ╵                             [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2653:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'createBanner' does not exist on type 'AdminPage'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:206:4422:
+[37m      206 │ ... class="button dark" (cli[32mck)="createB[37manner()">Add banner</butt...
+          ╵                             [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucidePackage is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:39:
+[37m      141 │   imports: [CommonModule, FormsModule, [32mLucidePackage[37m, LucideWallet],
+          ╵                                        [32m~~~~~~~~~~~~~[0m
+
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mNG8113: LucideWallet is not used within the template of SellerPage[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:141:54:
+[37m      141 │   imports: [CommonModule, FormsModule, LucidePackage, [32mLucideWallet[37m],
+          ╵                                                       [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/pages.ts:142:2653:
+[37m      142 │ ...ct()">Add product</button>[32m</section>[37m<section><h2>Inventory</h2...
+          ╵                              [32m~~~~~~~~~~[0m
+
+[39m[22m
